@@ -1,7 +1,7 @@
 /target
 .mvn/
 !.mvn/wrapper/maven-wrapper.jar
-
+# Eclipse
 .classpath
 .factorypath
 .project
