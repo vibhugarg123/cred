@@ -8,11 +8,11 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.slice</groupId>
+	<groupId>com.cred</groupId>
 	<artifactId>demoproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demoproject</name>
-	<description>Demo project for Slice</description>
+	<description>Demo project for Cred</description>
 	<url/>
 	<licenses>
 		<license/>
